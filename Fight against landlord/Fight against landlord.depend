@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1519655887 source:d:\code++\fight against landlord\landowner.cpp
+	"LandOwner.h"
+
+1519655747 d:\code++\fight against landlord\landowner.h
+	<iostream>
+	<vector>
+	<iterator>
+	<algorithm>
+	<ctime>
+
+1519655988 source:d:\code++\fight against landlord\main.cpp
+	<iostream>
+	"LandOwner.h"
+
